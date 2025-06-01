@@ -445,6 +445,33 @@ export const maplayerCommonLayout = {
 			2,
 		],
 	},
+	"symbol-quake_dot": {
+		"icon-image": [
+			"case",
+			["==", ["get", "seismic_intensity"], "1"],
+			"quake_dot_1",
+			["==", ["get", "seismic_intensity"], "2"],
+			"quake_dot_2",
+			["==", ["get", "seismic_intensity"], "3"],
+			"quake_dot_3",
+			["==", ["get", "seismic_intensity"], "4"],
+			"quake_dot_4",
+			["==", ["get", "seismic_intensity"], "5"],
+			"quake_dot_5",
+			"quake_dot_5",
+		],
+		"icon-size": [
+			"interpolate",
+			["linear"],
+			["zoom"],
+			11.99,
+			0.7,
+			14,
+			1.1,
+			22,
+			1.4,
+		],
+	},
 	"symbol-bus": {
 		"icon-image": "bus",
 		"icon-size": [

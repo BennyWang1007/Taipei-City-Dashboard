@@ -195,6 +195,11 @@ export const useMapStore = defineStore("map", {
 				"bike_orange",
 				"bike_red",
 				"cctv",
+				"quake_dot_1",
+				"quake_dot_2",
+				"quake_dot_3",
+				"quake_dot_4",
+				"quake_dot_5",
 			];
 			images.forEach((element) => {
 				this.map.loadImage(
@@ -264,6 +269,34 @@ export const useMapStore = defineStore("map", {
 				);
 			} else {
 				console.error("Geolocation is not supported by this browser.");
+			}
+		},
+
+		updateAEDColor(currentDay, currentTime) {
+			const weekday = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+			const dayIndex = currentDay?.value ?? currentDay; // support both ref and plain
+			let day = weekday[dayIndex];
+
+			const timeValue = currentTime?.value ?? currentTime;
+
+			const isAvailable = [
+				'all',
+				['<=', ["to-number", ['get', day + '_Stime']], timeValue],
+				['>=', ["to-number", ['get', day + '_Dtime']], timeValue]
+			];
+
+			let mapLayerId = "aed_location_new_tpe-circle-metrotaipei";
+			if (this.currentLayers.find((element) => element === mapLayerId)) {
+				this.map.setPaintProperty(
+					mapLayerId,
+					"circle-color",
+					[
+						"case",
+						isAvailable,
+						"#66ff33",
+						"#ff0066"
+					]
+				);
 			}
 		},
 

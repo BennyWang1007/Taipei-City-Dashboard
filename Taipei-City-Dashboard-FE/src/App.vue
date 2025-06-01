@@ -118,6 +118,18 @@ onBeforeMount(() => {
 	});
 	// contentStore.wsConnect();
 });
+
+const currentTime = ref('');
+const currentDay = ref('');
+
+function updateCurrentTime() {
+	const now = new Date();
+	const minutesSinceDayStart = now.getHours() * 60 + now.getMinutes();
+	// currentTime.value = now.toLocaleTimeString();
+	currentTime.value = minutesSinceDayStart;
+	currentDay.value = now.getDay();
+	mapStore.updateAEDColor(currentDay, currentTime);
+};
 onMounted(() => {
 	const showInitialWarning = localStorage.getItem("initialWarning");
 
@@ -127,6 +139,8 @@ onMounted(() => {
 
 	setInterval(reloadChartData, 1000 * frequency.value);
 	setInterval(updateTimeToUpdate, 1000 * 5);
+
+	window.addEventListener('mousemove', updateCurrentTime);
 });
 onBeforeUnmount(() => {
 	clearInterval(reloadChartData);

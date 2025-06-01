@@ -56,6 +56,13 @@
               :src="popupContent[activeTab]?.properties[item.key]"
             >
           </template>
+		  <template v-else-if="popupContent[activeTab]?.properties[item.key].includes('scweb.cwa.gov.tw')">
+		  	<img
+			  width="100%"
+			  height="100%"
+			  :src="popupContent[activeTab]?.properties[item.key]"
+			>
+			</template>
           <template v-else>
             <iframe
               width="300"

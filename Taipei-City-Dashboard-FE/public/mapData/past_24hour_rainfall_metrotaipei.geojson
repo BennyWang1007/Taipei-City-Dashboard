@@ -1,0 +1,2861 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.448906, 25.164889]
+			},
+			"properties": {
+				"StationName": "淡水",
+				"StationId": "466900",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "19.0",
+				"CountyName": "新北市",
+				"TownName": "淡水區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.525196, 24.959207]
+			},
+			"properties": {
+				"StationName": "新北",
+				"StationId": "466881",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "24.5",
+				"CountyName": "新北市",
+				"TownName": "新店區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.544547, 25.162078]
+			},
+			"properties": {
+				"StationName": "陽明山",
+				"StationId": "466930",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "607.1",
+				"CountyName": "臺北市",
+				"TownName": "北投區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.529731, 25.182586]
+			},
+			"properties": {
+				"StationName": "鞍部",
+				"StationId": "466910",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "837.6",
+				"CountyName": "臺北市",
+				"TownName": "北投區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.514853, 25.037658]
+			},
+			"properties": {
+				"StationName": "臺北",
+				"StationId": "466920",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "6.3",
+				"CountyName": "臺北市",
+				"TownName": "中正區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.469331, 25.133486]
+			},
+			"properties": {
+				"StationName": "關渡",
+				"StationId": "C1AC50",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "111.0",
+				"CountyName": "臺北市",
+				"TownName": "北投區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.446756, 25.051478]
+			},
+			"properties": {
+				"StationName": "新莊",
+				"StationId": "C0ACA0",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "25.0",
+				"CountyName": "新北市",
+				"TownName": "新莊區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.491792, 24.991622]
+			},
+			"properties": {
+				"StationName": "中和",
+				"StationId": "C0AG80",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "48.0",
+				"CountyName": "新北市",
+				"TownName": "中和區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.662917, 24.993969]
+			},
+			"properties": {
+				"StationName": "石碇",
+				"StationId": "C0A640",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "241.0",
+				"CountyName": "新北市",
+				"TownName": "石碇區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.575728, 25.00235]
+			},
+			"properties": {
+				"StationName": "文山",
+				"StationId": "C0AC80",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "40.0",
+				"CountyName": "臺北市",
+				"TownName": "文山區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.402008, 24.974944]
+			},
+			"properties": {
+				"StationName": "山佳",
+				"StationId": "C0A520",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "48.0",
+				"CountyName": "新北市",
+				"TownName": "樹林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.597992, 24.848222]
+			},
+			"properties": {
+				"StationName": "桶後",
+				"StationId": "C0A570",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "360.0",
+				"CountyName": "新北市",
+				"TownName": "烏來區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.380839, 25.072181]
+			},
+			"properties": {
+				"StationName": "林口",
+				"StationId": "C0AH50",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "275.0",
+				"CountyName": "新北市",
+				"TownName": "林口區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.923372, 25.129036]
+			},
+			"properties": {
+				"StationName": "鼻頭角",
+				"StationId": "C0A950",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "60.0",
+				"CountyName": "新北市",
+				"TownName": "瑞芳區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.632969, 25.165914]
+			},
+			"properties": {
+				"StationName": "大坪",
+				"StationId": "C0A860",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "362.0",
+				"CountyName": "新北市",
+				"TownName": "萬里區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.608692, 25.132153]
+			},
+			"properties": {
+				"StationName": "五指山",
+				"StationId": "C0A870",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "685.0",
+				"CountyName": "新北市",
+				"TownName": "汐止區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.864242, 25.036003]
+			},
+			"properties": {
+				"StationName": "雙溪",
+				"StationId": "C0A890",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "40.0",
+				"CountyName": "新北市",
+				"TownName": "雙溪區",
+				"Precipitation": "0.5"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.595236, 25.233153]
+			},
+			"properties": {
+				"StationName": "三和",
+				"StationId": "C0A931",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "216.0",
+				"CountyName": "新北市",
+				"TownName": "金山區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.643967, 25.223628]
+			},
+			"properties": {
+				"StationName": "金山",
+				"StationId": "C0A940",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "49.0",
+				"CountyName": "新北市",
+				"TownName": "金山區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [122.002058, 25.007606]
+			},
+			"properties": {
+				"StationName": "三貂角",
+				"StationId": "C0A970",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "96.0",
+				"CountyName": "新北市",
+				"TownName": "貢寮區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.469681, 25.109508]
+			},
+			"properties": {
+				"StationName": "社子",
+				"StationId": "C0A980",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "11.0",
+				"CountyName": "臺北市",
+				"TownName": "士林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.537169, 25.117494]
+			},
+			"properties": {
+				"StationName": "天母",
+				"StationId": "C0A9C0",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "35.0",
+				"CountyName": "臺北市",
+				"TownName": "士林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57545, 25.079422]
+			},
+			"properties": {
+				"StationName": "內湖",
+				"StationId": "C0A9F0",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "35.0",
+				"CountyName": "臺北市",
+				"TownName": "內湖區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.564597, 25.037822]
+			},
+			"properties": {
+				"StationName": "信義",
+				"StationId": "C0AC70",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "71.0",
+				"CountyName": "臺北市",
+				"TownName": "信義區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.70975, 24.938183]
+			},
+			"properties": {
+				"StationName": "坪林",
+				"StationId": "C0A530",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "300.0",
+				"CountyName": "新北市",
+				"TownName": "坪林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.823711, 24.971197]
+			},
+			"properties": {
+				"StationName": "泰平",
+				"StationId": "C0A550",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "422.0",
+				"CountyName": "新北市",
+				"TownName": "雙溪區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.658778, 25.066881]
+			},
+			"properties": {
+				"StationName": "汐止",
+				"StationId": "C0AH00",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "38.0",
+				"CountyName": "新北市",
+				"TownName": "汐止區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.369728, 24.939025]
+			},
+			"properties": {
+				"StationName": "三峽",
+				"StationId": "C0AC60",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "55.0",
+				"CountyName": "新北市",
+				"TownName": "三峽區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.593283, 24.934158]
+			},
+			"properties": {
+				"StationName": "四十份",
+				"StationId": "C1A9N0",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "435.0",
+				"CountyName": "新北市",
+				"TownName": "新店區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.522408, 25.175675]
+			},
+			"properties": {
+				"StationName": "大屯山",
+				"StationId": "C0AC40",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "1079.0",
+				"CountyName": "臺北市",
+				"TownName": "北投區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.538915, 25.168595]
+			},
+			"properties": {
+				"StationName": "湖田國小",
+				"StationId": "A1A9S0",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "699.0",
+				"CountyName": "臺北市",
+				"TownName": "北投區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.503915, 25.154997]
+			},
+			"properties": {
+				"StationName": "大屯國小",
+				"StationId": "A1A9T0",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "318.0",
+				"CountyName": "臺北市",
+				"TownName": "北投區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.476914, 25.134398]
+			},
+			"properties": {
+				"StationName": "桃源國中",
+				"StationId": "A1A9U0",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "28.0",
+				"CountyName": "臺北市",
+				"TownName": "北投區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.498913, 25.133897]
+			},
+			"properties": {
+				"StationName": "北投國小",
+				"StationId": "A1A9V0",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "37.0",
+				"CountyName": "臺北市",
+				"TownName": "北投區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51671, 25.092496]
+			},
+			"properties": {
+				"StationName": "陽明高中",
+				"StationId": "A1A9W0",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "18.0",
+				"CountyName": "臺北市",
+				"TownName": "士林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.511708, 25.061696]
+			},
+			"properties": {
+				"StationName": "太平國小",
+				"StationId": "A1A9X0",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "20.0",
+				"CountyName": "臺北市",
+				"TownName": "大同區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.566707, 25.059693]
+			},
+			"properties": {
+				"StationName": "民生國中",
+				"StationId": "A1A9Y0",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "28.0",
+				"CountyName": "臺北市",
+				"TownName": "松山區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.521906, 25.031696]
+			},
+			"properties": {
+				"StationName": "中正國中",
+				"StationId": "A1A9Z0",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "31.0",
+				"CountyName": "臺北市",
+				"TownName": "中正區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.558106, 25.029194]
+			},
+			"properties": {
+				"StationName": "三興國小",
+				"StationId": "A1AA00",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "28.0",
+				"CountyName": "臺北市",
+				"TownName": "信義區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.545613, 25.131395]
+			},
+			"properties": {
+				"StationName": "格致國中",
+				"StationId": "A1AA10",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "394.0",
+				"CountyName": "臺北市",
+				"TownName": "士林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.576412, 25.129193]
+			},
+			"properties": {
+				"StationName": "平等國小",
+				"StationId": "A1AA20",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "427.0",
+				"CountyName": "臺北市",
+				"TownName": "士林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.555611, 25.103294]
+			},
+			"properties": {
+				"StationName": "至善國中",
+				"StationId": "A1AA30",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "53.0",
+				"CountyName": "臺北市",
+				"TownName": "士林區",
+				"Precipitation": "410.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.591709, 25.084692]
+			},
+			"properties": {
+				"StationName": "碧湖國小",
+				"StationId": "A1AA40",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "33.0",
+				"CountyName": "臺北市",
+				"TownName": "內湖區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.615007, 25.069191]
+			},
+			"properties": {
+				"StationName": "東湖國小",
+				"StationId": "A1AA50",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "34.0",
+				"CountyName": "臺北市",
+				"TownName": "內湖區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.585606, 25.037192]
+			},
+			"properties": {
+				"StationName": "留公國中",
+				"StationId": "A1AA60",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "32.0",
+				"CountyName": "臺北市",
+				"TownName": "信義區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.619405, 25.039991]
+			},
+			"properties": {
+				"StationName": "舊莊國小",
+				"StationId": "A1AA70",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "38.0",
+				"CountyName": "臺北市",
+				"TownName": "南港區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.556406, 25.038894]
+			},
+			"properties": {
+				"StationName": "市政中心",
+				"StationId": "A1AA80",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "83.0",
+				"CountyName": "臺北市",
+				"TownName": "信義區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.575304, 25.002193]
+			},
+			"properties": {
+				"StationName": "博嘉國小",
+				"StationId": "A1AA90",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "53.0",
+				"CountyName": "臺北市",
+				"TownName": "文山區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.577502, 24.984393]
+			},
+			"properties": {
+				"StationName": "北政國中",
+				"StationId": "A1AB00",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "39.0",
+				"CountyName": "臺北市",
+				"TownName": "文山區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.545303, 24.986395]
+			},
+			"properties": {
+				"StationName": "埤腹",
+				"StationId": "A1AB10",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "42.0",
+				"CountyName": "臺北市",
+				"TownName": "文山區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.490307, 25.030298]
+			},
+			"properties": {
+				"StationName": "雙園",
+				"StationId": "A1AB20",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "31.0",
+				"CountyName": "臺北市",
+				"TownName": "萬華區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.474712, 25.105298]
+			},
+			"properties": {
+				"StationName": "中洲",
+				"StationId": "A1AB30",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "8.0",
+				"CountyName": "臺北市",
+				"TownName": "士林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.582507, 25.052193]
+			},
+			"properties": {
+				"StationName": "玉成",
+				"StationId": "A1AB40",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "27.0",
+				"CountyName": "臺北市",
+				"TownName": "南港區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.528909, 25.072195]
+			},
+			"properties": {
+				"StationName": "建國",
+				"StationId": "A1AB50",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "25.0",
+				"CountyName": "臺北市",
+				"TownName": "中山區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.528911, 25.099395]
+			},
+			"properties": {
+				"StationName": "福德",
+				"StationId": "A1AB60",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "14.0",
+				"CountyName": "臺北市",
+				"TownName": "士林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.503113, 25.123897]
+			},
+			"properties": {
+				"StationName": "奇岩",
+				"StationId": "A1AB70",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "28.0",
+				"CountyName": "臺北市",
+				"TownName": "北投區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.569411, 25.113593]
+			},
+			"properties": {
+				"StationName": "雙溪",
+				"StationId": "A1AB80",
+				"Maintainer": "臺北市政府工務局水利工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "127.0",
+				"CountyName": "臺北市",
+				"TownName": "士林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.421373, 24.887277]
+			},
+			"properties": {
+				"StationName": "大豹",
+				"StationId": "01A210",
+				"Maintainer": "水利署第10河川分署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "600.0",
+				"CountyName": "新北市",
+				"TownName": "三峽區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.497357, 24.7798]
+			},
+			"properties": {
+				"StationName": "福山(3)",
+				"StationId": "01A430",
+				"Maintainer": "水利署第10河川分署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "500.0",
+				"CountyName": "新北市",
+				"TownName": "烏來區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.562992, 24.876212]
+			},
+			"properties": {
+				"StationName": "大桶山",
+				"StationId": "01A440",
+				"Maintainer": "水利署第10河川分署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "916.0",
+				"CountyName": "新北市",
+				"TownName": "烏來區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.710339, 24.936401]
+			},
+			"properties": {
+				"StationName": "坪林(4)",
+				"StationId": "01A450",
+				"Maintainer": "水利署第10河川分署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "200.0",
+				"CountyName": "新北市",
+				"TownName": "坪林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.516401, 25.021931]
+			},
+			"properties": {
+				"StationName": "中正橋",
+				"StationId": "01A410",
+				"Maintainer": "水利署第10河川分署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "15.0",
+				"CountyName": "臺北市",
+				"TownName": "中正區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54405, 25.162299]
+			},
+			"properties": {
+				"StationName": "竹子湖",
+				"StationId": "01A420",
+				"Maintainer": "水利署第10河川分署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "600.0",
+				"CountyName": "臺北市",
+				"TownName": "士林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.745559, 24.890886]
+			},
+			"properties": {
+				"StationName": "碧湖",
+				"StationId": "01A190",
+				"Maintainer": "水利署第10河川分署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "360.0",
+				"CountyName": "新北市",
+				"TownName": "坪林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.657883, 24.991596]
+			},
+			"properties": {
+				"StationName": "石碇(2)",
+				"StationId": "01A130",
+				"Maintainer": "水利署第10河川分署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "250.0",
+				"CountyName": "新北市",
+				"TownName": "石碇區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.355555, 24.938878]
+			},
+			"properties": {
+				"StationName": "三峽",
+				"StationId": "01A220",
+				"Maintainer": "水利署第10河川分署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "33.0",
+				"CountyName": "新北市",
+				"TownName": "三峽區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.803301, 25.110338]
+			},
+			"properties": {
+				"StationName": "瑞芳(2)",
+				"StationId": "01A380",
+				"Maintainer": "水利署第10河川分署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "101.0",
+				"CountyName": "新北市",
+				"TownName": "瑞芳區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.749275, 24.981089]
+			},
+			"properties": {
+				"StationName": "火燒寮",
+				"StationId": "01A200",
+				"Maintainer": "水利署第10河川分署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "380.0",
+				"CountyName": "新北市",
+				"TownName": "平溪區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.451992, 24.87561]
+			},
+			"properties": {
+				"StationName": "熊空山",
+				"StationId": "01AG10",
+				"Maintainer": "水利署第10河川分署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "778.0",
+				"CountyName": "新北市",
+				"TownName": "三峽區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.633793, 25.063288]
+			},
+			"properties": {
+				"StationName": "社后橋",
+				"StationId": "01AG00",
+				"Maintainer": "水利署第10河川分署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "13.0",
+				"CountyName": "新北市",
+				"TownName": "汐止區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.820556, 25.059541]
+			},
+			"properties": {
+				"StationName": "三貂嶺",
+				"StationId": "01AF90",
+				"Maintainer": "水利署第10河川分署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "118.0",
+				"CountyName": "新北市",
+				"TownName": "瑞芳區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.544109, 25.288486]
+			},
+			"properties": {
+				"StationName": "富貴角",
+				"StationId": "01A350",
+				"Maintainer": "水利署第10河川分署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "0.0",
+				"CountyName": "新北市",
+				"TownName": "石門區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.828198, 24.971779]
+			},
+			"properties": {
+				"StationName": "太平",
+				"StationId": "L1A840",
+				"Maintainer": "臺北市政府臺北翡翠水庫管理局",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "403.0",
+				"CountyName": "新北市",
+				"TownName": "雙溪區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.745694, 24.892584]
+			},
+			"properties": {
+				"StationName": "碧湖",
+				"StationId": "L1A800",
+				"Maintainer": "臺北市政府臺北翡翠水庫管理局",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "386.0",
+				"CountyName": "新北市",
+				"TownName": "坪林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.713797, 24.936785]
+			},
+			"properties": {
+				"StationName": "坪林",
+				"StationId": "L1A830",
+				"Maintainer": "臺北市政府臺北翡翠水庫管理局",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "210.0",
+				"CountyName": "新北市",
+				"TownName": "坪林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.649896, 24.902389]
+			},
+			"properties": {
+				"StationName": "九芎根",
+				"StationId": "L1A810",
+				"Maintainer": "臺北市政府臺北翡翠水庫管理局",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "378.0",
+				"CountyName": "新北市",
+				"TownName": "石碇區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.649599, 24.943989]
+			},
+			"properties": {
+				"StationName": "十三股",
+				"StationId": "L1A820",
+				"Maintainer": "臺北市政府臺北翡翠水庫管理局",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "530.0",
+				"CountyName": "新北市",
+				"TownName": "石碇區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.580097, 24.907093]
+			},
+			"properties": {
+				"StationName": "翡翠",
+				"StationId": "L1A790",
+				"Maintainer": "臺北市政府臺北翡翠水庫管理局",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "202.0",
+				"CountyName": "新北市",
+				"TownName": "新店區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.624705, 25.03399]
+			},
+			"properties": {
+				"StationName": "舊莊里",
+				"StationId": "A1AC50",
+				"Maintainer": "臺北市政府工務局大地工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "47.0",
+				"CountyName": "臺北市",
+				"TownName": "南港區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.663304, 25.028388]
+			},
+			"properties": {
+				"StationName": "茶製場",
+				"StationId": "A1AD70",
+				"Maintainer": "臺北市政府工務局大地工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "375.0",
+				"CountyName": "臺北市",
+				"TownName": "南港區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.611605, 25.032491]
+			},
+			"properties": {
+				"StationName": "九如里",
+				"StationId": "A1AC60",
+				"Maintainer": "臺北市政府工務局大地工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "44.0",
+				"CountyName": "臺北市",
+				"TownName": "南港區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.613109, 25.087591]
+			},
+			"properties": {
+				"StationName": "安泰里",
+				"StationId": "A1AD30",
+				"Maintainer": "臺北市政府工務局大地工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "97.0",
+				"CountyName": "臺北市",
+				"TownName": "內湖區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.588912, 25.136892]
+			},
+			"properties": {
+				"StationName": "溪山里",
+				"StationId": "A1AC90",
+				"Maintainer": "臺北市政府工務局大地工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "453.0",
+				"CountyName": "臺北市",
+				"TownName": "士林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.565711, 25.113693]
+			},
+			"properties": {
+				"StationName": "明德樂園",
+				"StationId": "A1AC80",
+				"Maintainer": "臺北市政府工務局大地工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "111.0",
+				"CountyName": "臺北市",
+				"TownName": "士林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.566013, 25.143993]
+			},
+			"properties": {
+				"StationName": "菁山里",
+				"StationId": "A1AD00",
+				"Maintainer": "臺北市政府工務局大地工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "489.0",
+				"CountyName": "臺北市",
+				"TownName": "士林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.568014, 25.163293]
+			},
+			"properties": {
+				"StationName": "擎天崗",
+				"StationId": "A1AD10",
+				"Maintainer": "臺北市政府工務局大地工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "769.0",
+				"CountyName": "臺北市",
+				"TownName": "士林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.489815, 25.155898]
+			},
+			"properties": {
+				"StationName": "貴子坑",
+				"StationId": "A1AD80",
+				"Maintainer": "臺北市政府工務局大地工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "278.0",
+				"CountyName": "臺北市",
+				"TownName": "北投區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.574405, 25.017093]
+			},
+			"properties": {
+				"StationName": "挹翠山莊",
+				"StationId": "A1AC70",
+				"Maintainer": "臺北市政府工務局大地工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "118.0",
+				"CountyName": "臺北市",
+				"TownName": "信義區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.580302, 24.981493]
+			},
+			"properties": {
+				"StationName": "指南里",
+				"StationId": "A1AC40",
+				"Maintainer": "臺北市政府工務局大地工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "103.0",
+				"CountyName": "臺北市",
+				"TownName": "文山區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.595301, 24.968892]
+			},
+			"properties": {
+				"StationName": "貓空",
+				"StationId": "A1AD60",
+				"Maintainer": "臺北市政府工務局大地工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "317.0",
+				"CountyName": "臺北市",
+				"TownName": "文山區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.403947, 25.150211]
+			},
+			"properties": {
+				"StationName": "八里",
+				"StationId": "C0AD10",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "27.0",
+				"CountyName": "新北市",
+				"TownName": "八里區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.472331, 25.086594]
+			},
+			"properties": {
+				"StationName": "蘆洲",
+				"StationId": "C0AD30",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "20.0",
+				"CountyName": "新北市",
+				"TownName": "蘆洲區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.445169, 24.973208]
+			},
+			"properties": {
+				"StationName": "土城",
+				"StationId": "C0AD40",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "32.0",
+				"CountyName": "新北市",
+				"TownName": "土城區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.346294, 24.951533]
+			},
+			"properties": {
+				"StationName": "鶯歌",
+				"StationId": "C0AD50",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "84.0",
+				"CountyName": "新北市",
+				"TownName": "鶯歌區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.582905, 25.029293]
+			},
+			"properties": {
+				"StationName": "四獸山",
+				"StationId": "A1AG40",
+				"Maintainer": "臺北市政府工務局大地工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "315.0",
+				"CountyName": "臺北市",
+				"TownName": "信義區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.554305, 25.016894]
+			},
+			"properties": {
+				"StationName": "福州山",
+				"StationId": "A1AG60",
+				"Maintainer": "臺北市政府工務局大地工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "122.0",
+				"CountyName": "臺北市",
+				"TownName": "大安區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56991, 25.094893]
+			},
+			"properties": {
+				"StationName": "金面山",
+				"StationId": "A1AG80",
+				"Maintainer": "臺北市政府工務局大地工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "80.0",
+				"CountyName": "臺北市",
+				"TownName": "內湖區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.604109, 25.096391]
+			},
+			"properties": {
+				"StationName": "大湖里",
+				"StationId": "A1AG20",
+				"Maintainer": "臺北市政府工務局大地工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "181.0",
+				"CountyName": "臺北市",
+				"TownName": "內湖區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.483915, 25.147998]
+			},
+			"properties": {
+				"StationName": "稻香里",
+				"StationId": "A1AG30",
+				"Maintainer": "臺北市政府工務局大地工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "160.0",
+				"CountyName": "臺北市",
+				"TownName": "北投區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.52841, 25.083096]
+			},
+			"properties": {
+				"StationName": "劍潭山",
+				"StationId": "A1AG50",
+				"Maintainer": "臺北市政府工務局大地工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "143.0",
+				"CountyName": "臺北市",
+				"TownName": "中山區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.543203, 24.989295]
+			},
+			"properties": {
+				"StationName": "仙跡岩",
+				"StationId": "A1AG70",
+				"Maintainer": "臺北市政府工務局大地工程處",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "81.0",
+				"CountyName": "臺北市",
+				"TownName": "文山區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.508111, 25.01125]
+			},
+			"properties": {
+				"StationName": "永和",
+				"StationId": "C0AH10",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "30.0",
+				"CountyName": "新北市",
+				"TownName": "永和區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.773797, 25.048418]
+			},
+			"properties": {
+				"StationName": "平溪旅遊",
+				"StationId": "NUP460",
+				"Maintainer": "水利署第10河川分署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "101.0",
+				"CountyName": "新北市",
+				"TownName": "平溪區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.832514, 25.029351]
+			},
+			"properties": {
+				"StationName": "上林國小",
+				"StationId": "O1AH20",
+				"Maintainer": "水利署第1河川分署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "71.0",
+				"CountyName": "新北市",
+				"TownName": "雙溪區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.887489, 24.985827]
+			},
+			"properties": {
+				"StationName": "吉林國小",
+				"StationId": "O1AH30",
+				"Maintainer": "水利署第1河川分署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "174.0",
+				"CountyName": "新北市",
+				"TownName": "貢寮區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53208, 24.959713]
+			},
+			"properties": {
+				"StationName": "精忠",
+				"StationId": "81AH40",
+				"Maintainer": "農村水保署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "47.0",
+				"CountyName": "新北市",
+				"TownName": "新店區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.780794, 25.07125]
+			},
+			"properties": {
+				"StationName": "五分山",
+				"StationId": "C0AH30",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "755.0",
+				"CountyName": "新北市",
+				"TownName": "瑞芳區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.577086, 25.129142]
+			},
+			"properties": {
+				"StationName": "平等",
+				"StationId": "C0AH40",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "426.0",
+				"CountyName": "臺北市",
+				"TownName": "士林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.838927, 25.091251]
+			},
+			"properties": {
+				"StationName": "大粗坑",
+				"StationId": "81AI30",
+				"Maintainer": "農村水保署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "84.0",
+				"CountyName": "新北市",
+				"TownName": "瑞芳區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.689444, 25.175833]
+			},
+			"properties": {
+				"StationName": "萬里國小",
+				"StationId": "81AH50",
+				"Maintainer": "農村水保署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "10.0",
+				"CountyName": "新北市",
+				"TownName": "萬里區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.390556, 25.126667]
+			},
+			"properties": {
+				"StationName": "長坑國小",
+				"StationId": "81AH60",
+				"Maintainer": "農村水保署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "34.0",
+				"CountyName": "新北市",
+				"TownName": "八里區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.804444, 25.015833]
+			},
+			"properties": {
+				"StationName": "柑林國小",
+				"StationId": "81AH70",
+				"Maintainer": "農村水保署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "93.0",
+				"CountyName": "新北市",
+				"TownName": "雙溪區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.470989, 24.939858]
+			},
+			"properties": {
+				"StationName": "五城加油站",
+				"StationId": "81AH80",
+				"Maintainer": "農村水保署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "73.0",
+				"CountyName": "新北市",
+				"TownName": "新店區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.526111, 24.838333]
+			},
+			"properties": {
+				"StationName": "信賢派出所",
+				"StationId": "81AH90",
+				"Maintainer": "農村水保署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "253.0",
+				"CountyName": "新北市",
+				"TownName": "烏來區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.36, 24.858889]
+			},
+			"properties": {
+				"StationName": "五寮國小",
+				"StationId": "81AI00",
+				"Maintainer": "農村水保署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "172.0",
+				"CountyName": "新北市",
+				"TownName": "三峽區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.446624, 24.925692]
+			},
+			"properties": {
+				"StationName": "建安國小",
+				"StationId": "81AI10",
+				"Maintainer": "農村水保署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "91.0",
+				"CountyName": "新北市",
+				"TownName": "三峽區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4375, 24.853611]
+			},
+			"properties": {
+				"StationName": "有木國小",
+				"StationId": "81AI20",
+				"Maintainer": "農村水保署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "249.0",
+				"CountyName": "新北市",
+				"TownName": "三峽區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.550428, 25.048711]
+			},
+			"properties": {
+				"StationName": "松山",
+				"StationId": "C0AH70",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "34.0",
+				"CountyName": "臺北市",
+				"TownName": "松山區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.551378, 24.862306]
+			},
+			"properties": {
+				"StationName": "覽勝橋",
+				"StationId": "01AD90",
+				"Maintainer": "水利署第10河川分署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "108.0",
+				"CountyName": "新北市",
+				"TownName": "烏來區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53987, 25.13605]
+			},
+			"properties": {
+				"StationName": "文化大學",
+				"StationId": "A0A460",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "424.4",
+				"CountyName": "臺北市",
+				"TownName": "士林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.628328, 25.002703]
+			},
+			"properties": {
+				"StationName": "深坑",
+				"StationId": "C0AH80",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "68.0",
+				"CountyName": "新北市",
+				"TownName": "深坑區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.539416, 25.014278]
+			},
+			"properties": {
+				"StationName": "臺灣大學",
+				"StationId": "A0A010",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "17.0",
+				"CountyName": "臺北市",
+				"TownName": "大安區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.631222, 24.955778]
+			},
+			"properties": {
+				"StationName": "茶改北部分場",
+				"StationId": "82A750",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "401.0",
+				"CountyName": "新北市",
+				"TownName": "石碇區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58135, 24.760717]
+			},
+			"properties": {
+				"StationName": "福山植物園",
+				"StationId": "C0AH90",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "660.0",
+				"CountyName": "新北市",
+				"TownName": "烏來區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.427281, 25.074453]
+			},
+			"properties": {
+				"StationName": "五股",
+				"StationId": "C0AI00",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "188.0",
+				"CountyName": "新北市",
+				"TownName": "五股區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.544725, 24.921836]
+			},
+			"properties": {
+				"StationName": "屈尺",
+				"StationId": "C0AI10",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "76.0",
+				"CountyName": "新北市",
+				"TownName": "新店區",
+				"Precipitation": "520.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.519058, 25.283128]
+			},
+			"properties": {
+				"StationName": "白沙灣",
+				"StationId": "C0AI20",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "25.0",
+				"CountyName": "新北市",
+				"TownName": "石門區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.500625, 25.057378]
+			},
+			"properties": {
+				"StationName": "三重",
+				"StationId": "C0AI30",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "26.0",
+				"CountyName": "新北市",
+				"TownName": "三重區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.513167, 25.115597]
+			},
+			"properties": {
+				"StationName": "石牌",
+				"StationId": "C0AI40",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "37.0",
+				"CountyName": "臺北市",
+				"TownName": "北投區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.386972, 24.944503]
+			},
+			"properties": {
+				"StationName": "桃改樹林分場",
+				"StationId": "72AI40",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "40.0",
+				"CountyName": "新北市",
+				"TownName": "樹林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.492, 25.11575]
+			},
+			"properties": {
+				"StationName": "台農院關渡站",
+				"StationId": "G2AI50",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "9.0",
+				"CountyName": "臺北市",
+				"TownName": "北投區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.619664, 25.034164]
+			},
+			"properties": {
+				"StationName": "國三N016K",
+				"StationId": "C1AI50",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "64.0",
+				"CountyName": "臺北市",
+				"TownName": "南港區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.383836, 25.064361]
+			},
+			"properties": {
+				"StationName": "國一39K",
+				"StationId": "C1AI60",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "181.0",
+				"CountyName": "新北市",
+				"TownName": "泰山區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5975, 25.00194]
+			},
+			"properties": {
+				"StationName": "國三甲005K",
+				"StationId": "CAA090",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "60.0",
+				"CountyName": "臺北市",
+				"TownName": "文山區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6475, 25.08]
+			},
+			"properties": {
+				"StationName": "國三S010K",
+				"StationId": "CAA030",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "50.0",
+				"CountyName": "新北市",
+				"TownName": "汐止區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6158, 25.03306]
+			},
+			"properties": {
+				"StationName": "國三S016K",
+				"StationId": "CAA040",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "71.0",
+				"CountyName": "臺北市",
+				"TownName": "南港區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.471042, 24.982361]
+			},
+			"properties": {
+				"StationName": "國三S037K",
+				"StationId": "CAA050",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "51.0",
+				"CountyName": "新北市",
+				"TownName": "土城區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4306, 24.96]
+			},
+			"properties": {
+				"StationName": "國三S042K",
+				"StationId": "CAA060",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "50.0",
+				"CountyName": "新北市",
+				"TownName": "土城區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3958, 24.95083]
+			},
+			"properties": {
+				"StationName": "國三N046K",
+				"StationId": "CAA070",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "54.0",
+				"CountyName": "新北市",
+				"TownName": "樹林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3239, 24.93917]
+			},
+			"properties": {
+				"StationName": "國三S054K",
+				"StationId": "CAA080",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "97.0",
+				"CountyName": "新北市",
+				"TownName": "鶯歌區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.628153, 25.066739]
+			},
+			"properties": {
+				"StationName": "國一N013K",
+				"StationId": "CAA010",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "39.0",
+				"CountyName": "新北市",
+				"TownName": "汐止區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4964, 25.07639]
+			},
+			"properties": {
+				"StationName": "國一S026K",
+				"StationId": "CAA020",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "27.0",
+				"CountyName": "新北市",
+				"TownName": "三重區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.638017, 25.00865]
+			},
+			"properties": {
+				"StationName": "石碇服務區",
+				"StationId": "C1A750",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "92.0",
+				"CountyName": "新北市",
+				"TownName": "石碇區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.638556, 24.942842]
+			},
+			"properties": {
+				"StationName": "坪林交控",
+				"StationId": "C1A760",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "217.0",
+				"CountyName": "新北市",
+				"TownName": "坪林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.516506, 25.096356]
+			},
+			"properties": {
+				"StationName": "科教館",
+				"StationId": "C0A770",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "60.0",
+				"CountyName": "臺北市",
+				"TownName": "士林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.925264, 25.055192]
+			},
+			"properties": {
+				"StationName": "澳底",
+				"StationId": "C0AJ90",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "23.0",
+				"CountyName": "新北市",
+				"TownName": "貢寮區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.690022, 25.207031]
+			},
+			"properties": {
+				"StationName": "野柳",
+				"StationId": "C0AJ20",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "22.0",
+				"CountyName": "新北市",
+				"TownName": "萬里區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.408617, 25.184592]
+			},
+			"properties": {
+				"StationName": "淡水觀海",
+				"StationId": "C0AJ30",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "22.0",
+				"CountyName": "新北市",
+				"TownName": "淡水區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6012, 25.273672]
+			},
+			"properties": {
+				"StationName": "石門",
+				"StationId": "C0AJ40",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "154.0",
+				"CountyName": "新北市",
+				"TownName": "石門區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.862239, 25.123697]
+			},
+			"properties": {
+				"StationName": "水湳洞",
+				"StationId": "C0AJ50",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "30.0",
+				"CountyName": "新北市",
+				"TownName": "瑞芳區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.448102, 25.240002]
+			},
+			"properties": {
+				"StationName": "六塊厝",
+				"StationId": "C0AJ60",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "13.0",
+				"CountyName": "新北市",
+				"TownName": "淡水區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.488597, 25.2698]
+			},
+			"properties": {
+				"StationName": "田寮",
+				"StationId": "C0AJ70",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "21.0",
+				"CountyName": "新北市",
+				"TownName": "三芝區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.448716, 25.0111]
+			},
+			"properties": {
+				"StationName": "板橋",
+				"StationId": "C0AJ80",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "38.0",
+				"CountyName": "新北市",
+				"TownName": "板橋區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.690278, 24.982222]
+			},
+			"properties": {
+				"StationName": "華梵大學",
+				"StationId": "81AJ30",
+				"Maintainer": "農村水保署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "520.0",
+				"CountyName": "新北市",
+				"TownName": "石碇區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.696389, 25.054444]
+			},
+			"properties": {
+				"StationName": "東山",
+				"StationId": "81AJ20",
+				"Maintainer": "農村水保署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "290.0",
+				"CountyName": "新北市",
+				"TownName": "汐止區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.38197, 25.064433]
+			},
+			"properties": {
+				"StationName": "國一N039K",
+				"StationId": "CAA990",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "233.0",
+				"CountyName": "新北市",
+				"TownName": "泰山區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56525, 25.263783]
+			},
+			"properties": {
+				"StationName": "富貴角",
+				"StationId": "C2A920",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "196.0",
+				"CountyName": "新北市",
+				"TownName": "石門區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.94208, 25.017842]
+			},
+			"properties": {
+				"StationName": "福隆",
+				"StationId": "C2A880",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "6.0",
+				"CountyName": "新北市",
+				"TownName": "貢寮區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.74573, 24.8926]
+			},
+			"properties": {
+				"StationName": "四堵",
+				"StationId": "C2A540",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "401.0",
+				"CountyName": "新北市",
+				"TownName": "坪林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50281, 24.776203]
+			},
+			"properties": {
+				"StationName": "福山",
+				"StationId": "C2A560",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "405.0",
+				"CountyName": "新北市",
+				"TownName": "烏來區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.80114, 25.113169]
+			},
+			"properties": {
+				"StationName": "瑞芳",
+				"StationId": "C2A660",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "97.0",
+				"CountyName": "新北市",
+				"TownName": "瑞芳區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.74289, 25.002719]
+			},
+			"properties": {
+				"StationName": "火燒寮",
+				"StationId": "C2A650",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "287.0",
+				"CountyName": "新北市",
+				"TownName": "平溪區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.65193, 24.996414]
+			},
+			"properties": {
+				"StationName": "國五S005K",
+				"StationId": "CAAD60",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "154.0",
+				"CountyName": "新北市",
+				"TownName": "石碇區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.65697, 24.989964]
+			},
+			"properties": {
+				"StationName": "國五S006K",
+				"StationId": "CAAD70",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "187.0",
+				"CountyName": "新北市",
+				"TownName": "石碇區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.66808, 24.982411]
+			},
+			"properties": {
+				"StationName": "國五N008K",
+				"StationId": "CAAD80",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "217.0",
+				"CountyName": "新北市",
+				"TownName": "石碇區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.7055, 24.947603]
+			},
+			"properties": {
+				"StationName": "國五N013K",
+				"StationId": "CAAD90",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "280.0",
+				"CountyName": "新北市",
+				"TownName": "坪林區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.364899, 25.134937]
+			},
+			"properties": {
+				"StationName": "太平里",
+				"StationId": "C0AK10",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "18.0",
+				"CountyName": "新北市",
+				"TownName": "林口區",
+				"Precipitation": "0.0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.426372, 25.136097]
+			},
+			"properties": {
+				"StationName": "硬漢嶺",
+				"StationId": "C0AK30",
+				"Maintainer": "中央氣象署",
+				"DateTime": "2025-05-31T19:30:00+08:00",
+				"Altitude": "607.0",
+				"CountyName": "新北市",
+				"TownName": "八里區",
+				"Precipitation": "0.0"
+			}
+		}
+	]
+}
